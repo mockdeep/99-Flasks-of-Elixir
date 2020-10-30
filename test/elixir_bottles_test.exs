@@ -389,7 +389,7 @@ defmodule ElixirBottlesTest do
 
       No more flasks of elixir on the wall, no more flasks of elixir.
       Go to the store and buy some more, 99 flasks of elixir on the wall.
-    """
+      """
     assert ElixirBottles.song == expected
   end
 
